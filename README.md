@@ -5,7 +5,7 @@
   * **World Models**
   * **ML systems**
   * **Optimization**
-  * **CUDA kernels**
+  * **CUDA and Triton kernels**
   * **ML compilers**
 - 🌱 I’m currently learning **CUDA** and **Triton**
 - 💞️ I’m looking to collaborate on **Kernel optimization**, **CUDA**, **Triton**
