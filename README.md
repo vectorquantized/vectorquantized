@@ -7,6 +7,8 @@
   * **Optimization**
   * **CUDA and Triton kernels**
   * **ML compilers**
+  * **Quantum Physics**
+  * **SR and GR**
 - 🌱 I’m currently learning **CUDA** and **Triton**
 - 💞️ I’m looking to collaborate on **Kernel optimization**, **CUDA**, **Triton**
 - 📫 How to reach me `"vector"[:3]+"quantized" at google's email service dot "commercial"[:-7]`
